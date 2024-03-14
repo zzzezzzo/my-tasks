@@ -1,0 +1,30 @@
+#app-logo {
+    height: 40px;
+}
+
+.navbar {
+    background-color: rgb(7, 169, 197) !important;
+}
+
+.task-img {
+    width: 50px;
+}
+
+#task-show {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.badge {
+    cursor: pointer;
+}
+
+.badge:hover {
+    background-color: brown !important;
+}
+
+.required-field {
+    font-size: 0.6em;
+    color: red;
+}
